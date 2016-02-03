@@ -1,0 +1,2 @@
+# SERVER
+simple server apps
